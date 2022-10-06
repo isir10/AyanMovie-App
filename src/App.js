@@ -13,8 +13,9 @@ const App= () => {
     const url ="http://www.omdbapi.com/?s=star wars&apikey=baac0f72"
 
     const response = await fetch(url);
-    
-  }
+    const responseJson = await response.json();
+    console.log(responseJson);
+  };
   return
     <div className='container-fluid movie-app'>
       <div className='row'>
