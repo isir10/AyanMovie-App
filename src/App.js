@@ -27,7 +27,8 @@ const getMovieRequest = async (searchValue) => {
 		<div className='container-fluid movie-app'>
 			<div className='row d-flex align-items-center mt-4 mb-4'>
 				<MovieListHeading heading='Movies' />
-				<SearchBox searchValue={searchValue} setSearchValue={setSearchValue}  />
+                <SearchBox searchValue={searchValue} setSearchValue={setSearchValue} />
+
 			</div>
 			<div className='row'>
 				<MovieList />
