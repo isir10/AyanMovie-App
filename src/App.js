@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { useEffect, useState } from 'react';
 import MovieList from './components/MovieList';
 import MovieListHeading from './components/MovieListHeading';
-
+import SearchBox from './components/SearchBox';
 const App= () => {
   const[movies, setMovies] =  useState([]);
   const [Search, setSearchValue] = useState("");
@@ -27,8 +26,7 @@ const App= () => {
       </div>
       <div className='row'>
       <MovieList movies = {movies}/>
-      <h2>hello</h2>
-
+      <SearchBox />
 
       </div>
       
