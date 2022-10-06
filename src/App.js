@@ -4,6 +4,7 @@ import './App.css';
 import MovieList from './components/MovieList';
 import MovieListHeading from './components/MovieListHeading';
 import SearchBox from './components/SearchBox';
+import AddFavourites from './components/AddFavourites';
 
 const App = () => {
 const [movies, setMovies] = useState([]);
@@ -37,7 +38,7 @@ const getMovieRequest = async (searchValue) => {
 				<MovieListHeading  />
 			</div>
 			<div className='row'>
-				<MovieList movies ={movies} />
+				<MovieList movies ={movies} favouriteComponent ={AddFavourites} />
 			</div>
 		</div>
 	);
