@@ -2,6 +2,7 @@ body {
 	background: #141414;
 	color: #ffffff;
 }
+
 .movie-app > .row {
 	overflow-x: auto;
 	flex-wrap: nowrap;
@@ -11,7 +12,6 @@ body {
 	position: relative;
 	transition: transform 0.2s;
 }
-
 
 .image-container:hover {
 	cursor: pointer;
