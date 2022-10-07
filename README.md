@@ -1,15 +1,26 @@
 # {AYAN MOVIES APP.}
+
 # AUTHOR: ISIR MALAK.
+
 ## Description
-{This is a movie app that enables users to search their favourites movies and add them to their favouries list. User can also remove movies from their favourite lists..}
+{This is a movie app that enables users to search their favourites movies and add them to their favouries list. User can also remove movies from their favourite list.}
+
+## Live link of the App.
+[![link](http://localhost:3000/)
+
+
 ## Setup/Installation Requirements.
 Open Terminal {Ctrl+Alt+T}
 
 git clone 
 
-cd Ayan Movies-App
+cd Ayan Movies-App,
+
+
+Run npm install to install the needed dependencies.
 
 code . or atom . based on the text editor you have.
+
 
 ## Development 
 Want to contribute? Great!
@@ -26,38 +37,33 @@ Create a Pull Request
 
 
 ## Known Bugs
-The menu nav isn't responsive.
+If you find a bug (the website couldn't handle the query and or gave undesired results), kindly open an issue here by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
+
 ## Technologies Used.
-.React
+.React js
 .HTML5
 .CSS
 .JavaScript
 .markdown
 .Bootstrap
+
 ## Support and contact details.
 {If you have any questions or contributions please email me @ [isir.malak@student.moringaschool.com]}
 
 
 
+### License
 
+*MIT*
+Copyright (c) 2022 **Isir Malak**
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
