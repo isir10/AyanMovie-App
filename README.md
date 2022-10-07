@@ -5,6 +5,12 @@
 ## Description
 {This is a movie app that enables users to search their favourites movies and add them to their favouries list. User can also remove movies from their favourite list.}
 
+## Behaviour Driven Development
+
+ Displays an input that allows users to search their favourite movies.
+   - INPUT: "type movie name"
+   - BUTTON:"favourite and remove favourite icons"
+   
 ## Live link of the App.
 [![link](http://localhost:3000/)
 
@@ -14,7 +20,7 @@ Open Terminal {Ctrl+Alt+T}
 
 git clone 
 
-cd Ayan Movies-App,
+cd to AyanMovies-App,
 
 
 Run npm install to install the needed dependencies.
