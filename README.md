@@ -1,3 +1,73 @@
+# {AYAN MOVIES APP.}
+# AUTHOR: ISIR MALAK.
+## Description
+{This is a movie app that enables users to search their favourites movies and add them to their favouries list. User can also remove movies from their favourite lists..}
+## Setup/Installation Requirements.
+Open Terminal {Ctrl+Alt+T}
+
+git clone 
+
+cd Ayan Movies-App
+
+code . or atom . based on the text editor you have.
+
+
+## Known Bugs
+The menu nav isn't responsive.
+## Technologies Used.
+.React
+.HTML5
+.CSS
+.JavaScript
+.markdown
+.Bootstrap
+## Support and contact details.
+{If you have any questions or contributions please email me @ [isir.malak@student.moringaschool.com]}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
